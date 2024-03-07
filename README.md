@@ -25,10 +25,7 @@ He/Him
 ## ⚡ Fun fact
 I love experimenting with new technologies and frameworks. When I'm not coding, you'll likely find me exploring the outdoors or tinkering with gadgets.
 
-## About My Project: Recipe Manager App
-The Recipe Manager App is my current project aimed at helping users store, manage, and share their favorite recipes. The backend is developed with Jakarta EE, focusing on creating a robust and scalable service layer. The frontend will be developed using Angular, aiming to provide a dynamic and responsive user experience.
 
-**Note:** The frontend part of the Recipe Manager App is in the works and will be available on GitHub soon. Stay tuned!
 
 <!---
 Christian-Held/Christian-Held is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
