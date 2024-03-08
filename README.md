@@ -3,7 +3,7 @@
 ## About Me
 I'm passionate about software development, with a keen interest in creating efficient and user-friendly applications. I'm currently diving deep into full-stack development, focusing on backend technologies and planning to explore Angular for the frontend.
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently developing
 - Backend development with Jakarta EE and other Java technologies for building robust and scalable applications.
 - Frontend development with Angular, aiming to create dynamic and interactive user interfaces.
 
